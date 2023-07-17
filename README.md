@@ -1,2 +1,1 @@
-![cile1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=cile1993&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cile1993&hide=html,css&langs_count=6&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cile1993&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
